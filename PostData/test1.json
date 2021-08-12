@@ -1,0 +1,36 @@
+[
+  {
+    "id": "AE",
+    "name": "UNITED ARAB EMIRATES",
+    "brand": "Brand1",
+    "shortDescription": "",
+    "longDescription": "",
+    "detailPageName": "UNITED ARAB EMIRATES",
+    "ports": [
+      "Port1"
+    ],
+    "destinations": [
+      "Des1",
+      "Dest2"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "AL",
+    "name": "ALBANIA",
+    "brand": "Brand1",
+    "shortDescription": "",
+    "longDescription": "",
+    "detailPageName": "ALBANIA",
+    "ports": [
+      "Port2",
+      "Port3"
+    ],
+    "destinations": [
+      "Des1",
+      "Des5",
+      "Des4"
+    ],
+    "status": "active"
+  }
+]
